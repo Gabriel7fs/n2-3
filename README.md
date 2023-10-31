@@ -1,2 +1,1 @@
-# n2-3
-n2-3
+Dupla: Vinícius Vicenzo e Gabriel Furquim - Questão 3 da N2
